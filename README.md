@@ -1,3 +1,11 @@
+
+![standard](https://github.com/user-attachments/assets/2be85dd7-4540-4105-80a6-db2976948eed)
+
+
+
+
+
+
 # Bot Info Viewer
 
 A clean, professional **Python CLI tool** that displays Discord bot information with a beautiful terminal UI using **pystyle gradients** and **slow typing effects**.
