@@ -1,7 +1,6 @@
 import asyncio
 import sys
 
-# ✅ REQUIRED FIX FOR WINDOWS + DISCORD.PY
 if sys.platform.startswith("win"):
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
@@ -46,3 +45,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
