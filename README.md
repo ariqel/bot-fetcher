@@ -30,7 +30,7 @@ This tool validates a Discord bot token and fetches bot details **without connec
 ## Project Structure
 
 ```text
-bot-info-viewer/
+bot-info/
 │
 ├── main.py
 ├── requirements.txt
